@@ -1,4 +1,18 @@
+#Rproject
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+#data files
+*.csv
+*.xlsx
+*.xlsm
+*.txt
+
+#documents and other files
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.rtf
