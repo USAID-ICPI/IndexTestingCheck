@@ -2,6 +2,7 @@ Populate this foler with current the final Data Packs. I pulled the files from [
 
 An important note is that you should modify the Data Pack file names so they match the following criteria:
   - Each file name starts with the country name
+  - Add a space between country name and the rest of the file name
   - Countries with spaces should have those spaces removed, eg South Sudan --> SouthSudan
   
 At the the time of this analysis, 21 of the 22 OUs had submitted Data Packs (currently missing Cote d'Ivoire)
